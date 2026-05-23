@@ -1,3 +1,7 @@
 **/.venv/
 __pycache__/
 *.pyc
+.claude/
+CLAUDE.md
+settings.local.json
+.DS_Store
